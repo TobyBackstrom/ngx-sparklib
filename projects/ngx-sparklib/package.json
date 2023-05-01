@@ -3,11 +3,14 @@
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^15.1.0",
-    "@angular/core": "^15.1.0"
+    "@angular/core": "^15.1.0",
+    "sparklib": "^1.0.16-alpha"
   },
   "dependencies": {
-    "sparklib": "^1.0.16-alpha",
     "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "sparklib": "^1.0.16-alpha"
   },
   "sideEffects": false
 }
